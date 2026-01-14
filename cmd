@@ -20,5 +20,3 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 
 pip list
-
-export GOOGLE_APPLICATION_CREDENTIALS="/home/chungtv8/Desktop/eintelligent/eintelligent/src/main/resources/key.json"
